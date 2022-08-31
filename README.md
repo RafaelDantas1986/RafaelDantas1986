@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RafaelDantas1986
 - 👀 I’m interested in learn more about programing
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects that make me learn even more, and also, help others
+- 💞️ I’m looking to collaborate on projects that makes me learn even more, and also, help others
 - 📫 How to reach me: facebook.com/rafael.dantas54, IG: @rafael_dantas, Reddit: u/RazielGarou
 
 <!---
